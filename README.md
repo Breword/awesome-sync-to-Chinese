@@ -6,6 +6,8 @@
 
 * [Koajs官方文档](http://koajs.breword.com/) - Koajs最新官方文档翻译
 
+* [现代Javascript备忘清单](https://translate.breword.com/pages/ef2ac50436e84d5582d3d04971488c22) - 现代Javascript知识点备忘清单
+
 ## 待译文档
 
 如果你对文档翻译感兴趣，可以在 Issue 留言。
